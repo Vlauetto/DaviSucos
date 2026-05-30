@@ -9,8 +9,8 @@ import macauva from '../assets/maçauva.png'
 import copo from '../assets/copo.png'
 import coracao from '../assets/coracao.png'
 import sucolaranja from '../assets/SucoLaranja.png'
-import sucomorango from '../assets/sucoMorango.png'
-import sucomaracuja from '../assets/sucoMaracuja.png' 
+import sucomorango from '../assets/SucoMorango.png'
+import sucomaracuja from '../assets/SucoMaracuja.png' 
 
 export function Home() {
   return (
