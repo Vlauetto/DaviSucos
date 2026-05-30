@@ -1,15 +1,15 @@
 import { Link } from 'react-router-dom'
 import style from '../styles/Home.module.css'
 import sucos from '../assets/sucos header.png'
-import onda from '../assets/onda.png'
+import onda from '../assets/Onda.png'
 import whatsapp from '../assets/whatsapp.png'
 import sucosicones from '../assets/sucos-icone.png'
 import planta from '../assets/planta.png'
 import macauva from '../assets/maçauva.png'
 import copo from '../assets/copo.png'
 import coracao from '../assets/coracao.png'
-import sucolaranja from '../assets/sucolaranja.png'
-import sucomorango from '../assets/sucomorango.png'
+import sucolaranja from '../assets/SucoLaranja.png'
+import sucomorango from '../assets/sucoMorango.png'
 import sucomaracuja from '../assets/sucoMaracuja.png' 
 
 export function Home() {
