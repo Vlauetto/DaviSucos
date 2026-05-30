@@ -10,7 +10,7 @@ import copo from '../assets/copo.png'
 import coracao from '../assets/coracao.png'
 import sucolaranja from '../assets/sucolaranja.png'
 import sucomorango from '../assets/sucomorango.png'
-import sucomaracuja from '../assets/sucomaracuja.png' 
+import sucomaracuja from '../assets/sucoMaracuja.png' 
 
 export function Home() {
   return (
